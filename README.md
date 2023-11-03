@@ -124,3 +124,4 @@ Hey, I'm Iris! 👋. I'm a **Software Engineer** based in Los Angeles, CA. I enj
     <img src="https://gist.githubusercontent.com/iris-jeong/c6b5a6ea30bd1f2118898b058229d0c8/raw/128792796243cfd4b64e2c6e1d9c24047398f005/linkedin.svg" height="36px" />
   </a>    
 </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=iris-jeong&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
